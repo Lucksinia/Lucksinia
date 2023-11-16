@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&color=F78A27&center=true&random=false&width=435&lines=I+am+a+Python+Developer!;...What+exactly+am+I%3F;...What+AM+I%3F!;Ah%2C+It's+all+clear+now!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&color=F78A27&center=true&random=false&width=435&lines=I+am+a+Python+Developer!;...What+exactly+am+I%3F;...What+AM+I%3F!;Ah%2C+It's+all+clear+now!)](https://git.io/typing-svg#gh-dark-mode-only)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&color=4c71f2&center=true&random=false&width=435&lines=I+am+a+Python+Developer!;...What+exactly+am+I%3F;...What+AM+I%3F!;Ah%2C+It's+all+clear+now!)](https://git.io/typing-svg#gh-light-mode-only)
 <details>
   <summary>
     <h2>
@@ -7,7 +8,8 @@
   </summary>
   ...Of my opensource streak:
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lucksinia&theme=dracula&ring=EB8841&sideLabels=EB8841&currStreakLabel=EB8841&fire=EB8841&sideNums=EB8841&background=EB545400)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lucksinia&theme=dracula&ring=EB8841&sideLabels=EB8841&currStreakLabel=EB8841&fire=EB8841&sideNums=EB8841&background=EB545400)](https://git.io/streak-stats#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lucksinia&theme=dracula&ring=2f80ed&sideLabels=434d58&currStreakLabel=434d58&fire=4c71f2&currStreakNum=4c71f2&sideNums=2f80ed&background=EB545400)](https://git.io/streak-stats#gh-light-mode-only)
 
 ...Of my most used languages:
 
