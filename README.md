@@ -7,7 +7,7 @@
   </summary>
   ...Of my opensource streak:
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lucksinia&theme=transparent&hide_border=true)](https://git.io/streak-stats).
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lucksinia&theme=dracula&ring=EB8841&sideLabels=EB8841&currStreakLabel=EB8841&fire=EB8841&sideNums=EB8841&background=EB545400)](https://git.io/streak-stats)
 
 ...Of my most used languages:
 
