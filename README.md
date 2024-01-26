@@ -47,5 +47,5 @@
 
   - 🖼️ [Image cleaning CLI utility](https://github.com/Lucksinia/ImageSorter)
   - 🎞️ [Muzika! Tcl GUI powered by pygame-ce mixer](https://github.com/Lucksinia/Muzika)
-  - 💳 [My not so distant static site/blog(HEAVY WIP!!!)](https://lucksiniais.online) Powered by my own python-based **SSG**, [Like those ones](https://jamstack.org/generators/), but mine!
+  - 💳 [My not so distant static site/blog(HEAVY WIP!!!)](https://lucksiniais.online) Powered by my own python-based **SSG**, [Like those ones](https://jamstack.org/generators/), but mine! (the link above is the current site. which is one empty index page)
 </details>
