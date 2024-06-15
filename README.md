@@ -49,3 +49,7 @@
   - 🎞️ [Muzika! Tcl GUI powered by pygame-ce mixer](https://github.com/Lucksinia/Muzika)
   - 💳 [My not so distant static site/blog(HEAVY WIP!!!)](https://lucksiniais.online) Powered by my own python-based **SSG**, [Like those ones](https://jamstack.org/generators/), but mine! (the link above is the current site. which is one empty index page)
 </details>
+
+I also do some pixelart, so you, maybe can...
+
+<a href='https://ko-fi.com/K3K8N6A5J' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
